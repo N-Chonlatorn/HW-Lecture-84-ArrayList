@@ -1,0 +1,15 @@
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\bin\Debug\HW Lecture 84 ArrayList.exe.config
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\bin\Debug\HW Lecture 84 ArrayList.exe
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\bin\Debug\HW Lecture 84 ArrayList.pdb
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList.csprojAssemblyReference.cache
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\MainWindow.g.cs
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\App.g.cs
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList_MarkupCompile.cache
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList_MarkupCompile.lref
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\MainWindow.baml
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList.g.resources
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW_Lecture_84_ArrayList.Properties.Resources.resources
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList.csproj.GenerateResource.cache
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList.csproj.CoreCompileInputs.cache
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList.exe
+D:\Project\Dev Learning Project\HW Lecture 84 ArrayList\obj\Debug\HW Lecture 84 ArrayList.pdb
